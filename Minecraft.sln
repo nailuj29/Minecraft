@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30711.63
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minecraft.Server", "Minecraft.Server\Minecraft.Server.csproj", "{876C88B9-CE14-48A2-A5CE-5C6484DFE3A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minecraft.Protocol", "Minecraft.Packets\Minecraft.Protocol.csproj", "{68CD0A9F-DAB3-45EE-B842-BBFAE555C31B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minecraft.Protocol", "Minecraft.Protocol\Minecraft.Protocol.csproj", "{68CD0A9F-DAB3-45EE-B842-BBFAE555C31B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minecraft.Wren", "Minecraft.Wren\Minecraft.Wren.csproj", "{3E3E614E-9268-4E72-9FAD-FA7E12A541A8}"
 EndProject

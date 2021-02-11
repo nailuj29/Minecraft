@@ -5,6 +5,7 @@ An (as of yet) unnamed Minecraft server software
 ## TODO List
 - [ ] Implement minecraft protocol
   - [ ] Authentication
+  - [ ] Server list ping
 - [ ] Plugin API
   - [ ] .NET plugins
   - [ ] Lua Plugins
